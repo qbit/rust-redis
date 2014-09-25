@@ -2,3 +2,7 @@
 name = "redis"
 version = "0.0.1"
 authors = ["Michael Neumann"]
+
+[lib]
+name = "redis"
+path = "src/redis/lib.rs"
